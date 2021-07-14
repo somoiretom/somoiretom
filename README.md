@@ -1,4 +1,10 @@
 ### Hi there 👋
+ I'm Somoire Tom
+ ✍️currently learning at Zetech University
+ 💻I'm interested much in Web development, which am pretty understanding it well currently
+ 📞I'm looking forward to be an experienced web developer in some days, months to come
+  🦜🦜And I really do Love Nature, the Natural beauty of creatures
+
 
 <!--
 **somoiretom/somoiretom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
