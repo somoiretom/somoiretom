@@ -2,8 +2,8 @@
  I'm Somoire Tom
  ✍️currently learning at Zetech University
  💻I'm interested much in Web development, which am pretty understanding it well currently
- 📞I'm looking forward to be an experienced web developer in some days, months to come
-  🦜🦜And I really do Love Nature, the Natural beauty of creatures
+ 📞I'm inspiring to be a web developer in the current days and the future
+  🦜🦜 I really i Love Nature, the Natural beauty of creatures
 
 
 <!--
