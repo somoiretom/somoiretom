@@ -1,9 +1,8 @@
 ### Hi there 👋
- I'm Somoire Tom
- ✍️currently learning at Zetech University
- 💻I'm interested much in Web development, which am pretty understanding it well currently
- 📞I'm inspiring to be a web developer in the current days and the future
-  🦜🦜 I really i Love Nature, the Natural beauty of creatures
+ Am Tom Somoire 
+ Software Development by Proffession.
+ Looking Forward to be a stack Developer in the Future.
+
 
 
 <!--
