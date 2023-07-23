@@ -1,7 +1,7 @@
 ### Hi there 👋
  Am Tom Somoire 
  Software Development by Proffession.
- Looking Forward to be a stack Developer in the Future.
+ Looking Forward to be a full stack Developer in the Future.
 
 
 
