@@ -1,9 +1,9 @@
-### 👋 Hi, I'm Somoire
-## Computer Science Practitioner | Web Developer | AI & Data Enthusiast | Virtual Assistant
+#   👋 Hi, I'm Somoire
+#### Computer Science Practitioner | Web Developer | AI & Data Enthusiast | Virtual Assistant
 
-# 📍 Nairobi, Kenya | 🎓 BS Computer Science (Ongoing) | 🔗 LinkedIn
+#### 📍 Nairobi, Kenya | 🎓 BS Computer Science (Ongoing) | 🔗 LinkedIn
 
-### 🚀 Summary
+#### 🚀 Summary
 Experienced Computer Science professional with expertise in:
 
 Machine Learning & AI (Certified in AI Essentials)
@@ -18,20 +18,20 @@ Virtual Assistance (Google Workspace, Microsoft 365, Canva, Project Management)
 
 Passionate about leveraging technology to solve real-world problems while ensuring performance, accessibility, and impact.
 
-### 🎓 Education
-## BS, Computer Science
+#### 🎓 Education
+#### BS, Computer Science
 Zetech University, Nairobi (2022 – Ongoing)
 
-## Diploma in Information Technology
+#### Diploma in Information Technology
 Zetech University, Nairobi (2019 – 2021)
 
-### 📜 Certifications
+##### 📜 Certifications
 Virtual Assistant Course – ALX School (2024)
 
 AI Essentials – ALX School (2024)
 
-### 🛠️ Skills
-## Technical:
+#### 🛠️ Skills
+#### Technical:
 
 Web Dev: HTML, CSS, JavaScript, PHP, WordPress
 
@@ -53,14 +53,14 @@ Soft Skills:
 
 Detail-Oriented | Proactive | Strong Communication | Time Management
 
-### 🌱 Current Focus
+#### 🌱 Current Focus
 Advancing my AI/ML knowledge through certifications.
 
 Building web solutions with WordPress and JavaScript.
 
 Exploring data-driven automation tools.
 
-### 📫 Let’s Connect!
+#### 📫 Let’s Connect!
 LinkedIn: linkedin.com/in/somoire
 
 Email: somoiretomcs@gmail.com
