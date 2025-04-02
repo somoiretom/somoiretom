@@ -1,7 +1,6 @@
 ### Hi there 👋
  Am Tom Somoire 
- Software Development by Proffession.
- Looking Forward to be a full stack Developer in the Future.
+ Passionate computer science pr with practitioner a thirst for knowledge across various tech fields.  From using different programming languages and designing user-friendly interfaces to analyzing data and building networks, I'm always eager to learn and contribute.
 
 
 
